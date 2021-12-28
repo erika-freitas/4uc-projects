@@ -2,7 +2,7 @@
 
 # The job
 
-- What I've did/used: 
+- What I've used: 
 ![html](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 ![smarty](https://img.shields.io/badge/-Smarty-05122A?style=flat&logo=)
 ![css](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6) and just a tiny bit of 
